@@ -38,6 +38,7 @@ colorscheme vim
 	syntax on
 	set encoding=utf-8
 	set number relativenumber
+  " Makes all spaces tabs and 2 wide
 	set expandtab
 	set shiftwidth=2
 	set softtabstop=2
