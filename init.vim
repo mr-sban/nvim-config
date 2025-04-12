@@ -38,6 +38,10 @@ colorscheme vim
 	syntax on
 	set encoding=utf-8
 	set number relativenumber
+	set expandtab
+	set shiftwidth=2
+	set softtabstop=2
+	set tabstop=2
 " Enable autocompletion:
 	set wildmode=longest,list,full
 " Disables automatic commenting on newline:
